@@ -26,7 +26,7 @@ export async function generateMetadata({
     slug,
   } = post;
   const ogImage = image
-    ? `https://gauravchandak.com${image}`
+    ? `https://rashmishukla.com${image}`
     : ``;
 
   return {
@@ -37,7 +37,7 @@ export async function generateMetadata({
       description,
       type: 'article',
       publishedTime,
-      url: `https://gauravchandak.com/blog/${slug}`,
+      url: `https://rashmishukla.com/blog/${slug}`,
       images: [
         {
           url: ogImage,

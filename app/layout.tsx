@@ -14,18 +14,18 @@ const kaisei = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Gaurav Chandak',
-    template: '%s | Gaurav Chandak',
+    default: 'Rashmi Shukla',
+    template: '%s | Rashmi Shukla',
   },
   description: 'Developer, writer, and creator.',
   openGraph: {
-    title: 'Gaurav Chandak',
+    title: 'Rashmi Shukla',
     description: 'Developer, writer, and creator.',
-    url: 'https://gauravchandak.com',
-    siteName: 'Gaurav Chandak',
+    url: 'https://rashmishukla.com',
+    siteName: 'Rashmi Shukla',
     images: [
       {
-        url: 'https://gauravchandak.com/og.jpg',
+        url: 'https://rashmishukla.com/og.jpg',
         width: 1920,
         height: 1080,
       },
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'Gaurav Chandak',
+    title: 'Rashmi Shukla',
     card: 'summary_large_image',
   },
   icons: {

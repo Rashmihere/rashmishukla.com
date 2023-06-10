@@ -29,12 +29,12 @@ const computedFields = {
       dateModified: doc.publishedAt,
       description: doc.summary,
       image: doc.image
-        ? `https://gauravchandak.com${doc.image}`
+        ? `https://rashmishukla.com${doc.image}`
         : ``,
-      url: `https://gauravchandak.com/blog/${doc._raw.flattenedPath}`,
+      url: `https://rashmishukla.com/blog/${doc._raw.flattenedPath}`,
       author: {
         '@type': 'Person',
-        name: 'Gaurav Chandak',
+        name: 'Rashmi Shukla',
       },
     }),
   },

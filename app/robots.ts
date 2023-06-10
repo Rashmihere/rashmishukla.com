@@ -5,7 +5,7 @@ export default function robots() {
         userAgent: '*',
       },
     ],
-    sitemap: 'https://gauravchandak.com/sitemap.xml',
-    host: 'https://gauravchandak.com',
+    sitemap: 'https://rashmishukla.com/sitemap.xml',
+    host: 'https://rashmishukla.com',
   };
 }
